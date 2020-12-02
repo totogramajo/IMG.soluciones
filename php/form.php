@@ -1,8 +1,8 @@
 <?php
-$recipient = 'youremail@yourdomain.com'; // Enter the recipient's email address here.
+$recipient = 'totogramajo@hotmail.com'; // Enter the recipient's email address here.
 $subject   = 'New contact sent from the website.'; // Enter the subject of the email here.
-$success   = 'Your message was sent successful. Thanks.';
-$error     = 'Sorry. We were unable to send your message.';
+$success   = 'Tú mensaje fue enviado correctamente. ¡Gracias!.';
+// $error     = 'Sorry. We were unable to send your message.';
 $invalid   = 'Validation errors occurred. Please confirm the fields and submit it again.';
 
 if ( ! empty( $_POST ) ) {
