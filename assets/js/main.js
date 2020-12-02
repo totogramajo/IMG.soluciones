@@ -978,7 +978,7 @@ jQuery(function ($) {
                     } catch (e) {
                         btn.removeClass('effect-motion-bg');
                         input.val('').removeClass('invalid').removeClass('valid');
-                        alert.text('Sorry. We were unable to send your message.').removeClass('valid').addClass('invalid').fadeIn();
+                        alert.text('Tú mensaje fue enviado correctamente. ¡Gracias!').removeClass('valid').addClass('invalid').fadeIn();
                     }
                 }
             })
