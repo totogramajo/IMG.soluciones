@@ -4254,6 +4254,15 @@ footer .copyright a:not(.btn) {
     /* #endregion Feature */
 }
 
+
+@media(max-width: 400px){
+    #logoimg {
+        background-image: url(//assets/images/respon.png);
+        
+    }
+}
+
+
 @media(max-width: 374px) {
 
     /* #region General */
