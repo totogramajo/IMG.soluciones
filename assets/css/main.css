@@ -4258,7 +4258,6 @@ footer .copyright a:not(.btn) {
 @media(max-width: 400px){
     #logoimg {
         background-image: url(//assets/images/respon.png);
-        
     }
 }
 
